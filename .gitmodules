@@ -1,0 +1,7 @@
+[submodule "dependencies/googletest"]
+	path = dependencies/googletest
+	url = https://github.com/google/googletest.git
+    ignore = dirty
+[submodule "dependencies/hand-isomorphism"]
+	path = dependencies/hand-isomorphism
+	url = https://github.com/kdub0/hand-isomorphism.git
