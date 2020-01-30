@@ -20,7 +20,7 @@ Imperfect-Information Games](https://www.researchgate.net/publication/287088563_
 Please don't forget to run `git submodule update --init --recursive` after checking out. Then run the clustering program as follows:
 
     make
-    .bin/poker-hand-clustering
+    bin/poker-hand-clustering
 
   In `data` folder, `turn_kmeans.csv` and `flop_kmeans.csv` will be generated. Here we represent cluster by hand indexes implemented in [kdub0/hand-isomorphism](https://github.com/kdub0/hand-isomorphism). Thanks.
 
