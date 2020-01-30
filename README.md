@@ -1,4 +1,9 @@
 # poker-hand-clustering
+
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+[![CircleCI](https://circleci.com/gh/sammiya/poker-hand-clustering.svg?style=svg)](https://circleci.com/gh/sammiya/poker-hand-clustering)
+
+
 k-means clustering for poker hands based on earth mover's distance (EMD)
 
 ## About
